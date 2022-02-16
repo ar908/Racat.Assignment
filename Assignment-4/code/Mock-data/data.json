@@ -1,0 +1,26 @@
+{
+    "user":
+                [
+            {"name":"Arti",
+            "location":"Bengaluru",
+            "likes":64,
+            "description": "Kick start your career",
+            "PostImage": "https://images.unsplash.com/photo-1525126100334-befd6f8cb2f6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8aGFwcHklMjBsaWZlfGVufDB8fDB8fA%3D%3D&w=1000&q=80'",
+            "date": "5/02/2022"
+            },
+            {"name":"Neeraj",
+            "location":"Pune",
+            "likes":30,
+            "description": "Sample Description",
+            "PostImage": "https://images.unsplash.com/photo-1573640076354-ddcbf94b9b09?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxNTU0NTB8fGVufDB8fHx8&w=1000&q=80",
+            "date": "3/02/2022"
+            },
+            {"name":"Rahul",
+            "location":"Hyderabad",
+            "likes":30,
+            "description": "Sample Description for Post",
+            "PostImage": "https://images.unsplash.com/photo-1514315384763-ba401779410f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80",
+            "date": "4/02/2022"
+            }
+            ]
+}
